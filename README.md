@@ -11,8 +11,8 @@ GIT bash should be installed in your windows.
 
 ### How ###
 1. Copy the file rm-node.sh into any folder in your machine defined in you [PATH](http://superuser.com/questions/341192/how-can-i-display-the-contents-of-an-environment-variable-from-the-command-promp) variable
-2. Open GIT bash and mode to teh directory where you have the folder that you want to delete
-Example : Say i want to delete folder  c:\dev\myApp
+2. Open GIT bash and mode to the directory where you have the folder that you want to delete
+Example : Say I want to delete folder  c:\dev\myApp
 
   ```
   $ cd c:
@@ -25,5 +25,7 @@ Example : Say i want to delete folder  c:\dev\myApp
   $ rm-node.sh
   ```
 
-It will display a set of unbuild tasks getting run. Once that is done go and delete the folder in windows explorer.
+It will display a set of unbuild tasks getting run. 
+
+Once that is done,  go and delete the folder in windows explorer.
   
