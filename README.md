@@ -3,7 +3,7 @@ This GIT bash script can be used to delete node modules in windows.
 
 ### Feature ###
 In Windows we cannot remove any folder containing node-modules if node-modules have been installed using npm install. This is because 
-we get a log file name warining in that case. 
+we get a long file name warining in that case. 
 Those folders can now easily be deleted using this script. 
 
 ### Requirement ###
